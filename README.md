@@ -7,7 +7,6 @@ I'm Yash Babani, a 19-year-old male Full Stack Web Developer based in Gujarat, I
 - 🔭 I'm a Full Stack Web Developer with expertise in HTML, CSS, and JavaScript.
 - 🌱 I'm dedicated to continuous learning and exploring new technologies to enhance my skills.
 - 💬 Ask me about web development, and I'd be happy to help!
-- 📫 How to reach me: [Email Id](mailto:yashbabani0@gmail.com)
 
 ## Skills
 
