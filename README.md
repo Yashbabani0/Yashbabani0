@@ -8,17 +8,27 @@ I'm Yash Babani, a 19-year-old male Full Stack Web Developer based in Gujarat, I
 - 🌱 I'm dedicated to continuous learning and exploring new technologies to enhance my skills.
 - 💬 Ask me about web development, and I'd be happy to help!
 
-## Skills
+## Tools I Use
 
-- 💻 Programming Languages: HTML, CSS, JavaScript
+- **Text Editors/IDEs**: Visual Studio Code (VS Code)
+- **Version Control**: Git/GitHub
+- **Frontend**:
+  - React
+  - Next.js
+  - Bootstrap
+  - Tailwind CSS
+- **Backend**:
+  - Node.js
+  - Express.js
+- **Package Manager**: npm
+- **Design**:
+  - Figma
+- **Browser Development Tools**:
+  - Firefox Dev Tools
+  - Chrome Dev Tools
+- **Design Prototyping**: Eraser.io
 
-## Projects
-
-Currently, I'm working on several exciting web development projects. Stay tuned for updates!
-
-## GitHub Stats
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashbabani0&show_icons=true&hide=contribs,prs&theme=radical)
+Feel free to drop me an email or connect with me on Twitter and LinkedIn. Let's collaborate and create amazing web experiences together! 😊
 
 ## Let's Connect
 
@@ -26,5 +36,4 @@ Currently, I'm working on several exciting web development projects. Stay tuned 
 - 🐦 [Twitter](https://twitter.com/yashbabani09)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yashbabani1/)
 - 📷 [Instagram](https://www.instagram.com/yash_babani_/)
-
-Feel free to drop me an email or connect with me on Twitter and LinkedIn. Let's collaborate and create amazing web experiences together! 😊
+- 🔗 [Threads](https://www.threads.net/@yash_babani_)
