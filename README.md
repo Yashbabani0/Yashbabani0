@@ -1,39 +1,106 @@
 # Hi there! 👋
 
-I'm Yash Babani, a 21-year-old male Full Stack Web Developer based in Gujarat, India. Welcome to my GitHub profile! 🚀
+I'm **Yash Babani**, a Full Stack Developer from Gujarat, India 🇮🇳
 
-## About Me
+I build modern web applications, SaaS products, developer tools, and scalable backend systems using TypeScript.
 
-- 🔭 I'm a Full Stack Web Developer with expertise in HTML, CSS, and JavaScript.
-- 🌱 I'm dedicated to continuous learning and exploring new technologies to enhance my skills.
-- 💬 Ask me about web development, and I'd be happy to help!
+---
 
-## Tools I Use
+## 🚀 About Me
 
-- **Text Editors/IDEs**: Visual Studio Code (VS Code)
-- **Version Control**: Git/GitHub
-- **Frontend**:
-  - React
-  - Next.js
-  - Bootstrap
-  - Tailwind CSS
-- **Backend**:
-  - Node.js
-  - Express.js
-- **Package Manager**: npm
-- **Design**:
-  - Figma
-- **Browser Development Tools**:
-  - Firefox Dev Tools
-  - Chrome Dev Tools
-- **Design Prototyping**: Eraser.io
+- 💻 Full Stack Developer focused on modern web technologies
+- 🏗️ Building **TryNotifly** — a multi-channel notification platform for Email, SMS, WhatsApp, and Push notifications
+- ⚡ Interested in SaaS, system design, developer infrastructure, and cloud platforms
+- 🌱 Continuously learning and exploring new technologies
+- 🔍 Passionate about observability, monitoring, automation, and developer experience
+- 🤝 Open to collaboration on interesting projects and startups
 
-Feel free to drop me an email or connect with me on Twitter and LinkedIn. Let's collaborate and create amazing web experiences together! 😊
+---
 
-## Let's Connect
+## 🛠️ Tech Stack
 
-- 📧 [Email](yashbabani0@gmail.com)
-- 🐦 [Twitter](https://twitter.com/yashbabani09)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yashbabani1/)
-- 📷 [Instagram](https://www.instagram.com/yash_babani_/)
-- 🔗 [Threads](https://www.threads.net/@yash_babani_)
+### Frontend
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- Motion
+
+### Backend
+
+- Node.js
+- Fastify
+- REST APIs
+
+### Database
+
+- PostgreSQL
+- Supabase
+- Drizzle ORM
+
+### Infrastructure
+
+- AWS
+- Cloudflare
+- Vercel
+- Upstash Redis
+
+### Authentication
+
+- Better Auth
+- OAuth
+- Session Management
+
+### Payments
+
+- Razorpay
+- Paddle Payments
+
+### Tools
+
+- Git & GitHub
+- VS Code
+- Figma
+- Postman
+
+---
+
+## 🚧 Current Projects
+
+### 🔔 TryNotifly
+
+A multi-channel notification platform for Email, SMS, WhatsApp, and Push notifications
+
+- Email APIs
+- SMS APIs
+- WhatsApp APIs
+- Push Notifications
+- Analytics & Logs
+- Team Workspaces
+- API Key Management
+
+### 📊 Monitoring & Logging Platform
+
+Building tools focused on:
+
+- Application Monitoring
+- Log Management
+- Uptime Monitoring
+- Status Pages
+- Developer Experience
+
+### 🎨 FlowbyUI
+
+A modern React component library and developer toolkit.
+
+## 📫 Contact
+
+- [📧 Email](mailto:contact@yashbabani.com)
+- [🐦 X (@yashbabani0)](https://x.com/yashbabani0)
+- [📷 Instagram (@yash_babani_)](https://www.instagram.com/yash_babani_/)
+
+---
+
+> Building products, learning continuously, and shipping fast.
